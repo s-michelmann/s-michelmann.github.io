@@ -1,0 +1,23 @@
+# /_data/authors.yml
+
+Sebastian Michelmann:
+  name        : "Sebastian Michelmann"
+  bio         : ""
+  avatar      : "/assets/images/Michelmann_Profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:s.michelmann@princeton.edu"
+
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/@s_michelmann"
+
+Future Lab Member:
+  name        : "You could be here!"
+  bio         : ""
+  avatar      : "/assets/images/Future_Member.png"
+  links:
+    - label: "Get in touch"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:s.michelmann@princeton.edu"
