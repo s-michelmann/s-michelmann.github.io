@@ -3,7 +3,7 @@
 Sebastian Michelmann:
   name        : "Sebastian Michelmann"
   bio         : ""
-  avatar      : "/assets/images/Michelmann_Profile.png"
+  avatar      : "/assets/images/Michelmann_Profile_medium.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
