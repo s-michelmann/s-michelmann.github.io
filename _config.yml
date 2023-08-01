@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian Michelmann"
-  avatar           : "/assets/images/Michelmann_Profile_Medium.png"
+  avatar           : "/assets/images/Michelmann_Profile_medium.png"
   bio              : "Postdoctoral Researcher at Princeton <br> Assistant Professor at NYU (incoming)"
   location         : "New York City"
   email            : 
