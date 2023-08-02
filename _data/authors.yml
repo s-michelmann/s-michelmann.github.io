@@ -18,6 +18,6 @@ Future Lab Member:
   bio         : ""
   avatar      : "/assets/images/Future_Member.png"
   links:
-    - label: "Get in touch"
+    - label: "Send me an email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:s.michelmann@princeton.edu"
