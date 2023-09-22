@@ -8,9 +8,7 @@ header:
   image: assets/images/banner.png
 ---
 
- <p align="justify">I recently joined NYU as an Assistant Professor. 
- <br> <br>
- In my research, I ask how the continuous, temporally dynamic content that we encounter in the world is neurally represented, and what mechanisms and computational principles support its encoding and retrieval. For example, when humming a melody that we only heard once, our brain reproduces patterns from memory with high temporal accuracy that consequently need to be neurally represented. On the other hand, when remembering where we placed our keys, we can quickly sift through long memories that may be full of irrelevant information, i.e., memory search is much faster than the original experience. How can we reconcile such fast memory scanning with temporally accurate representations?
+ <p align="justify"> In my research, I ask how the continuous, temporally dynamic content that we encounter in the world is neurally represented, and what mechanisms and computational principles support its encoding and retrieval. For example, when humming a melody that we only heard once, our brain reproduces patterns from memory with high temporal accuracy that consequently need to be neurally represented. On the other hand, when remembering where we placed our keys, we can quickly sift through long memories that may be full of irrelevant information, i.e., memory search is much faster than the original experience. How can we reconcile such fast memory scanning with temporally accurate representations?
 
  <br> <br>
 
