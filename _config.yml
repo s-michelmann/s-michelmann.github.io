@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Sebastian Michelmann"
   avatar           : "/assets/images/Michelmann_Profile_medium.png"
-  bio              : "Postdoctoral Researcher at Princeton <br> Assistant Professor at NYU (incoming)"
+  bio              : "Assistant Professor at NYU"
   location         : "New York City"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:s.michelmann@princeton.edu"
+      url: "mailto:s.michelmann@nyu.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/s_michelmann"
